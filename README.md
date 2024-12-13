@@ -13,23 +13,23 @@ The following two public datasets were used in our experiment:
 
 ## ESRGAN
 
-The detailed implentation of ESR‐Generative Adversarial Networks is available at [Code 📁](https://github.com/DrSA-2024/UnsupervisedSkinCancer/tree/main/ESRGAN), and experimented other GAN-based image enhancer pretrained model can be found [Here 📁](https://github.com/DrSA-2024/UnsupervisedSkinCancer/tree/main/Pretrained_GAN-based_Model).
+The detailed implentation of ESR‐Generative Adversarial Networks is available at [Code 📁](https://github.com/mak-raiaan/UnsupervisedMedicalImaging/tree/main/ESRGAN), and experimented other pretrained model can be found [Here 📁](https://github.com/mak-raiaan/UnsupervisedMedicalImaging/tree/main/Contrastive%20Learning).
 
 
 
 
 ## Histogram Feature Map
-Histogram feature map generation and extraction details is available at [Code 📁](https://github.com/DrSA-2024/UnsupervisedSkinCancer/blob/main/Unsupervised_HistogramFreature.ipynb)
+Histogram feature map generation and extraction details is available at [Code 📁](https://github.com/mak-raiaan/UnsupervisedMedicalImaging/blob/main/Unsupervised_HistogramFreature.ipynb)
 
 
 
 ## Optimal Cluster Number
-Experimented optimal number of cluster finding with DBI and SS score evaluation code is detailed at [Code 📁](https://github.com/DrSA-2024/UnsupervisedSkinCancer/blob/main/Unsupervised_HistogramFreature.ipynb)
+Experimented optimal number of cluster finding with DBI and SS score evaluation code is detailed at [Code 📁](https://github.com/mak-raiaan/UnsupervisedMedicalImaging/blob/main/Unsupervised_HistogramFreature.ipynb)
 
 
 
 ## Clustering Performance Evaluation
-k-Means clusteing algorithm was finally choosen for our appraoch after exploring several other clusting algorithm. Code is avalable at [Code 📁](https://github.com/DrSA-2024/UnsupervisedSkinCancer/blob/main/Unsupervised_HistogramFreature.ipynb)
+k-Means clusteing algorithm was finally choosen for our appraoch after exploring several other clusting algorithm. Code is avalable at [Code 📁](https://github.com/mak-raiaan/UnsupervisedMedicalImaging/blob/main/Unsupervised_HistogramFreature.ipynb)
 
 
 ## Requirements
