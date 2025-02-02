@@ -1,6 +1,11 @@
 # Advancing Skin Cancer Detection Integrating a Novel Unsupervised Classification and Enhanced Imaging Techniques
 
-This repository contains the implementation code and pipeline for our novel unsupervised learning methodology for skin lesion classification. 
+
+## Paper
+
+📄 This code implements the paper published in a Q1 Journal, CAAI Transactions on Intelligence Technology, with an impact factor of 8.4.
+
+**Title**: [Advancing skin cancer detection integrating a novel unsupervised classification and enhanced imaging techniques]([https://www.sciencedirect.com/science/article/pii/S1746809424003379](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12410))
 
 ## Methodology
 Our methodology is a combination of modified ESRGAN, a novel histogram feature extraction map, optimal cluster-number estimation, and the application unsupervised clustering algorithm.
@@ -44,7 +49,17 @@ The following key Python packages are required to run the code:
 - Matplotlib
 
 
-## Citation
+## Citation Request
 
-Will be updated soon. 
-
+If you find this work helpful for your research, please consider citing our paper:
+- **Cite:**
+```bibtex
+@article{rahman2025advancing,
+  title = {Advancing skin cancer detection integrating a novel unsupervised classification and enhanced imaging techniques},
+  author = {Rahman, Md. Abdur and Fahad, Nur Mohammad and Raiaan, Mohaimenul Azam Khan and Jonkman, Mirjam and De Boer, Friso and Azam, Sami},
+  journal = {CAAI Transactions on Intelligence Technology},
+  pages = {1--20},
+  year = {2025},
+  doi = {10.1049/cit2.1241020},
+  publisher = {Wiley}
+}
